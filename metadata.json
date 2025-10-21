@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Pesquisa Inteligente Triad3 - Rastreamento",
+  "description": "Pesquisa Inteligente Triad3",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
